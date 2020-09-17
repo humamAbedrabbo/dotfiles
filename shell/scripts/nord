@@ -1,0 +1,5 @@
+# Aliases for nordvpn
+alias nc='nordvpn connect uk'
+alias nd='nordvpn disconnect'
+
+
