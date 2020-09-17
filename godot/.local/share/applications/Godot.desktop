@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Godot Engine
+GenericName=Game Engine
+Comment=An open source game engine. Need i say more?         
+Version=3.2.2
+Type=Application
+Categories=VectorGraphics;GTK;Game;
+Exec=/home/humam/Applications/Godot_v3.2.2-stable_x11.64
+Terminal=false
+Icon=/home/humam/.icons/godot.png
+StartupNotify=true
+Name[en_US]=Godot Engine
+X-GNOME-FullName[en_US]=Godot Engine
+Comment[en_US]=An open source game engine. Need i say more?         
+NoDisplay=false
+Path=
+X-GNOME-UsesNotifications=false
